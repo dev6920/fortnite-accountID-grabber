@@ -3,7 +3,9 @@ this code was made by me dev6920.
 
 Perks?
 enter any fortnite display name and it sends you the accountID back.
+
 this can help you if your trying to 'pull' or 'ban' a account.
+
 Fully writen in python.
 
 Preview
