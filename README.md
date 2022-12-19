@@ -1,4 +1,4 @@
-Yes you read the name correctly  
+Yes you saw the name correctly  
 this code was made by me dev6920.
 
 Perks?
