@@ -30,7 +30,7 @@ while True:
   page_source1 = response1.text
 
 
-  account_id_regex = r'"accountId":\s*"([^"]+)"'
+  account_id_regex = r'"accountId":Papajoe007"'
   match1 = re.search(account_id_regex, page_source1)
 
 
@@ -38,7 +38,8 @@ while True:
   match_player_name1 = re.search(player_name_regex, page_source1)
 
 
-  if (match1 and match_player_name1):
+  if (match1 and match_player_name1):Papajoe007
+    
     account_id = match1.group(1)
     player_name = match_player_name1.group(1)
     print(f"Account ID: {account_id}")
